@@ -9,10 +9,6 @@
     box-sizing: border-box;
 }
 
-html {
-    font-size: 62.5%;
-}
-
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.8rem;
@@ -30,6 +26,7 @@ body {
     --very-pale-cyan: hsl(193, 100%, 96%);
     --very-dark-cyan: hsl(192, 100%, 9%);
     --grayish-blue: hsl(208, 11%, 55%);
+    font-size: 62.5%;
 }
 
 /* Fim Configurações Inicias */
